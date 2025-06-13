@@ -12,5 +12,5 @@ runs:
   using: 'node20'
   main: 'index.js'
 branding:
-  icon: '🤖'
+  icon: 'activity'
   color: 'blue'
